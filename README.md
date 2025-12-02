@@ -1,18 +1,11 @@
 
 import random
  
-#TODO
-# Remplissez ces variables pour y affecter votre future note
+
 def identifiants():
     __PRENOM__ = "ilyes"
     __NOM__ = "nom"
     return __PRENOM__, __NOM__
- 
- 
-###############################################################################################
-################################      RSA   12 points    ######################################
-###############################################################################################
- 
  
 #TODO
 # Objectif: cette fonction calcule le pgcd de a et b
@@ -112,10 +105,6 @@ def dechiffrer_lettre_rsa(lettre, d, n):
     # Conversion int -> char
     return chr(m)
  
- 
-###############################################################################################
-###########################      DIFFIE-HELLMAN   8 points    #################################
-###############################################################################################
  
 #TODO
 # Objectif: cette fonction génère un nombre aléatoire dans un intervalle donné
