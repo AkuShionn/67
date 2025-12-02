@@ -1,34 +1,4 @@
-'''
--------------------------------
-# CONSIGNES
--------------------------------
- 
-/!\ Si les instructions suivantes ne sont pas respectées, l'algorithme ne fonctionnera pas et
-vous serez fortement susceptible d'avoir 0 /!\
- 
-/!\ Vous avez 1h20 + 25mn si nécessité de tier temps /!\
- 
-1) Remplissez votre prénom et votre nom dans les variables __PRENOM__ et __NOM__ dans
-la fonction identifiants()
- 
-2) Remplissez les méthodes précédées de la mention #TODO (...)
- 
-3) Ne touchez pas aux en-têtes des fonctions (ne pas modifier les paramètres)
- 
-4) Respectez les formats de sortie des fonctions (les valeurs retournées). Des exemples sont
-donnés pour vous aider à comprendre ce qui est attendu en sortie.
- 
- 
--------------------------------
-# TRAVAIL A REALISER
--------------------------------
- 
-Dans cet exercice vous devrez remplir les fonctions permettant de:
-1) chiffrer un messages avec RSA
-2) déchiffrer un message avec RSA
-3) les 3 fonctions permettant de générer une clé avec Diffie-Hellman
-'''
- 
+
 import random
  
 #TODO
